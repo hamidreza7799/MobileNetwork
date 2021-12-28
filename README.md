@@ -9,3 +9,8 @@ Project for mobile network class
 <img src="./IMG_20210530_131546.jpg">
 <img src="./IMG_20210530_131411.jpg">
 <img src="./IMG_20210530_131447.jpg">
+
+## Authors
+
+- [Hamidreza Azarbad](https://www.github.com/hamidreza7799)
+- [Mohammad Mahdi Soori](https://www.github.com/riasati)
