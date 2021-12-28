@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Navigation</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Pargar</string>
+    <string name="nav_header_subtitle">riasati@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_about_us">About Us</string>
+    <string name="student_1">Student 1</string>
+    <string name="student_2">Student 2</string>
+    <string name="menu_tourist_place_page">Tourist Place Page</string>
+</resources>
